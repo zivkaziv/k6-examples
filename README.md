@@ -1,1 +1,1 @@
-# k6-meetup
+# k6-examples
